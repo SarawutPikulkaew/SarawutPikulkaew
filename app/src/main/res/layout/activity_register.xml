@@ -26,6 +26,14 @@
             android:layout_marginBottom="30dp"
             android:textColor="#603a00"
             />
+        <EditText
+            android:id="@+id/etDis"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Display"
+            android:layout_marginBottom="13dp"
+            android:textColor="#603a00"
+            />
 
         <EditText
             android:id="@+id/etUser"
